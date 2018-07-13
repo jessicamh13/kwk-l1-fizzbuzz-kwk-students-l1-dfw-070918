@@ -9,4 +9,4 @@ def fizzbuzz(int)
 end
 
 
-fizzbuzz(9)
+fizzbuzz(3)
